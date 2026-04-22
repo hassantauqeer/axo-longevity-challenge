@@ -5,6 +5,12 @@ A modern web application that analyzes Spanish-language lab reports (Eurofins-st
 ![Status](https://img.shields.io/badge/status-production--ready-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## 📹 Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+
+![App Screenshot](./images/image.png)
+
 ---
 
 ## 🎯 Features
