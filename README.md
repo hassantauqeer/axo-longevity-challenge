@@ -7,7 +7,7 @@ A modern web application that analyzes Spanish-language lab reports (Eurofins-st
 
 ## 📹 Demo
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Watch Demo Video](./images/demo_video.mp4)](./images/demo_video.mp4)
 
 ![App Screenshot](./images/image.png)
 
