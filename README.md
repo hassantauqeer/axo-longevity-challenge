@@ -7,7 +7,7 @@ A modern web application that analyzes Spanish-language lab reports (Eurofins-st
 
 ## 📹 Demo
 
-[![Watch Demo Video](./images/demo_video.mp4)](./images/demo_video.mp4)
+> 📥 [Download full demo video (MP4)](./images/demo_video.mp4)
 
 ![App Screenshot](./images/image.png)
 
